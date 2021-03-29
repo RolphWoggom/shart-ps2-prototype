@@ -3,7 +3,9 @@
 This prototype was shared by [MattJ155](https://hiddenpalace.org/MattJ155), many thanks to him!
 
 It can be downloaded from [Hidden Palace](https://hiddenpalace.org/The_Simpsons:_Hit_%26_Run_(Jul_10,_2003_prototype))
-([direct download link](https://hiddenpalace.org/w/images/c/c3/The_Simpsons_-_Hit_and_Run_%28Jul_10%2C_2003_prototype%29.7z)).
+([direct download link](https://hiddenpalace.org/w/images/c/c3/The_Simpsons_-_Hit_and_Run_%28Jul_10%2C_2003_prototype%29.7z))
+or from the [GitHub backup](https://github.com/RolphWoggom/shart-ps2-prototype/releases/tag/download)
+([direct download link](https://github.com/RolphWoggom/shart-ps2-prototype/releases/download/download/The_Simpsons_-_Hit_and_Run_.Jul_10._2003_prototype.7z)).
 
 The 7z archive contains a iso disc image, both can be extracted using the 7z tool:
 
