@@ -29,3 +29,7 @@ $ sudo docker run --rm -v "$PWD":/workdir -w /workdir gcc:8 /bin/bash -c 'cat sr
 
 The demangled map can be then found in the `demangled.map` file.
 
+## Ghidra
+
+Ghidra doesn't support the PS2's Emotion Engine CPU, but there is a loader available: [ghidra-emotionengine](https://github.com/beardypig/ghidra-emotionengine).
+
