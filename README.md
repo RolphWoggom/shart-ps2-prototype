@@ -24,7 +24,7 @@ GCC 2.x used a custom mangling scheme before switching to the Itanium ABI with G
 Support for demangling GCC 2.x mangled names was removed in GCC 9, an easy way to get GCC 8 is to use Docker:
 
 ```
-$ sudo docker run --rm -v "$PWD":/workdir -w /workdir gcc:8 /bin/bash -c 'cat data/SRR2.MAP | c++filt >demangled.map'
+$ sudo docker run --rm -v "$PWD":/workdir -w /workdir gcc:8 /bin/bash -c 'cat srr2.map.original | c++filt >srr2.map.demangled'
 ```
 
 The demangled map can be then found in the `demangled.map` file.
