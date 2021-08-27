@@ -1,0 +1,2210 @@
+{
+  "MouthFlapper::MouthFlapper": {
+    "0x58": 2
+  }, 
+  "tAnimationGroup::tAnimationGroup": {
+    "0x1c": 2
+  }, 
+  "FeLayer::FeLayer": {
+    "0xb0": 2
+  }, 
+  "NoDamageBonusObjective::NoDamageBonusObjective": {
+    "0x14": 1
+  }, 
+  "tEventChannel::tEventChannel": {
+    "0x24": 2
+  }, 
+  "tLocatorLoader::tLocatorLoader": {
+    "0x14": 1
+  }, 
+  "MemorySpaceAsyncRequest_CopyIopToIop::MemorySpaceAsyncRequest_CopyIopToIop": {
+    "0x4c": 1
+  }, 
+  "tTextureFont::tTextureFont": {
+    "0x44": 1
+  }, 
+  "choreo::Bank::Bank": {
+    "0x18": 1
+  }, 
+  "PauseContext::PauseContext": {
+    "0x10": 1
+  }, 
+  "tSprite::tSprite": {
+    "0x74": 3
+  }, 
+  "choreo::SynchronizationRootDriver::SynchronizationRootDriver": {
+    "0x28": 1
+  }, 
+  "PtrHashTable::RawIterator::RawIterator": {
+    "0xc": 6
+  }, 
+  "tChunkFile::tChunkFile": {
+    "0x214": 1
+  }, 
+  "CGuiScreenPauseOptions::CGuiScreenPauseOptions": {
+    "0x9c": 1
+  }, 
+  "choreo::ReplayBuffer::ReplayBuffer": {
+    "0x40": 1
+  }, 
+  "CGuiScreenMissionOver::CGuiScreenMissionOver": {
+    "0xa8": 1
+  }, 
+  "tBillboardQuadGroup::tBillboardQuadGroup": {
+    "0xc0": 2
+  }, 
+  "choreo::ReplayDriver::ReplayDriver": {
+    "0x1c": 2
+  }, 
+  "Merchandise::Merchandise": {
+    "0x78": 1
+  }, 
+  "tFileFTT::tFileFTT": {
+    "0x78": 1
+  }, 
+  "FileGetSizeRequest::FileGetSizeRequest": {
+    "0x10": 1
+  }, 
+  "tVertexAnimKey::tVertexAnimKey": {
+    "0x2c": 1
+  }, 
+  "WrecklessCam::WrecklessCam": {
+    "0x124": 3
+  }, 
+  "CHudMap::CHudMap": {
+    "0x85c": 1
+  }, 
+  "pddiExtPS2Control::pddiExtPS2Control": {
+    "0x8": 1
+  }, 
+  "radLoadCallback::radLoadCallback": {
+    "0xc": 1
+  }, 
+  "tParticleSystemLoader::tParticleSystemLoader": {
+    "0x14": 2
+  }, 
+  "ActionButton::CollectibleFood::CollectibleFood": {
+    "0x24": 2
+  }, 
+  "tImageFont::tImageFont": {
+    "0x38": 1
+  }, 
+  "FeResourceManager::ResourceManagerEntryBase::ResourceManagerEntryBase": {
+    "0x40": 1, 
+    "0x38": 1
+  }, 
+  "IntersectionLoader::IntersectionLoader": {
+    "0x8": 1
+  }, 
+  "radThread::radThread": {
+    "0xa0": 1
+  }, 
+  "Scenegraph::Visibility::Visibility": {
+    "0x28": 1
+  }, 
+  "choreo::LocomotionSlot::LocomotionSlot": {
+    "0x20": 1
+  }, 
+  "NoCopBonusObjective::NoCopBonusObjective": {
+    "0x14": 1
+  }, 
+  "FePage::FePage": {
+    "0xf0": 2
+  }, 
+  "FileOpenRequest::FileOpenRequest": {
+    "0x14": 1
+  }, 
+  "tParticleSystem::tParticleSystem": {
+    "0x80": 1
+  }, 
+  "FeText::FeText": {
+    "0x110": 2
+  }, 
+  "FootprintManager::FootprintManager": {
+    "0x44": 1
+  }, 
+  "ActionButton::AutoPlayAnimLoop::AutoPlayAnimLoop": {
+    "0x40": 1
+  }, 
+  "InteriorManager::InteriorManager": {
+    "0x41d4": 1
+  }, 
+  "LoadingGameplayContext::LoadingGameplayContext": {
+    "0x10": 1
+  }, 
+  "tEventController::tEventController": {
+    "0x38": 2
+  }, 
+  "tPointCamera::tPointCamera": {
+    "0xf4": 2
+  }, 
+  "ps2LayeredShader::ps2LayeredShader": {
+    "0xa8": 1
+  }, 
+  "radObjectBTree::radObjectBTree": {
+    "0x20": 3
+  }, 
+  "Scenegraph::Branch::Branch": {
+    "0x24": 1
+  }, 
+  "MemorySpaceAsyncRequest_CopyEeToIop::MemorySpaceAsyncRequest_CopyEeToIop": {
+    "0x28": 1
+  }, 
+  "sim::PhysicsJoint3D::PhysicsJoint3D": {
+    "0x164": 1
+  }, 
+  "tAnimatedObjectAnimation::tAnimatedObjectAnimation": {
+    "0x24": 2
+  }, 
+  "tStateTransition::tStateTransition": {
+    "0x30": 1
+  }, 
+  "ActionButton::AutoPlayAnim::AutoPlayAnim": {
+    "0x40": 1
+  }, 
+  "GuiMenuItemText::GuiMenuItemText": {
+    "0x44": 1
+  }, 
+  "GameFlow::GameFlow": {
+    "0x54": 1
+  }, 
+  "radmusic::radload_radmusic_inventory::radload_radmusic_inventory": {
+    "0xc": 1
+  }, 
+  "CGuiScreenLevelStats::CGuiScreenLevelStats": {
+    "0xc0": 1
+  }, 
+  "AllWrappers::AllWrappers": {
+    "0x5c": 1
+  }, 
+  "ActionButtonManager::ActionButtonManager": {
+    "0x890": 1
+  }, 
+  "FileReadRequest::FileReadRequest": {
+    "0x18": 1
+  }, 
+  "tParticleSystemFactory::tParticleSystemFactory": {
+    "0x30": 1
+  }, 
+  "FMVUserInputHandler::FMVUserInputHandler": {
+    "0x29c": 1
+  }, 
+  "tSkeleton::tSkeleton": {
+    "0x1c": 2
+  }, 
+  "CGuiScreenSplash::CGuiScreenSplash": {
+    "0xa8": 1
+  }, 
+  "SuspensionJointDriver::SuspensionJointDriver": {
+    "0x1c": 1
+  }, 
+  "tExpressionAnimationController::tExpressionAnimationController": {
+    "0xb8": 2
+  }, 
+  "choreo::P3DFileReader::P3DFileReader": {
+    "0xc": 1
+  }, 
+  "PS2ReverbController::PS2ReverbController": {
+    "0x1c": 1
+  }, 
+  "tFloat1Channel::tFloat1Channel": {
+    "0x24": 1
+  }, 
+  "tSpriteLoader::tSpriteLoader": {
+    "0x24": 1
+  }, 
+  "FeProjectFileHandler::FeProjectFileHandler": {
+    "0x10": 1
+  }, 
+  "TimeRemainBonusObjective::TimeRemainBonusObjective": {
+    "0x14": 1
+  }, 
+  "CGuiScreenPauseMission::CGuiScreenPauseMission": {
+    "0xd0": 1
+  }, 
+  "radLoadUpdatableRequest::radLoadUpdatableRequest": {
+    "0x3c": 1
+  }, 
+  "Scenegraph::Transform::Transform": {
+    "0xa4": 2
+  }, 
+  "radMovieVideoDecoderPs2::radMovieVideoDecoderPs2": {
+    "0x90": 1
+  }, 
+  "sim::SimState::SimState": {
+    "0x8c": 1
+  }, 
+  "tGeometryLoader::tGeometryLoader": {
+    "0x1c": 1
+  }, 
+  "SphereTriggerVolume::SphereTriggerVolume": {
+    "0x4c": 1, 
+    "0x44": 5
+  }, 
+  "SkidmarkManager::ManagedSkidmark::ManagedSkidmark": {
+    "0xc": 1
+  }, 
+  "Pedestrian::Pedestrian": {
+    "0x284": 1
+  }, 
+  "tAnimation::tAnimation": {
+    "0x30": 2
+  }, 
+  "DriveCancelRequest::DriveCancelRequest": {
+    "0xc": 1
+  }, 
+  "ps2Display::ps2Display": {
+    "0x58": 1
+  }, 
+  "ATCLoader::ATCLoader": {
+    "0x14": 1
+  }, 
+  "CGuiScreenOptions::CGuiScreenOptions": {
+    "0xb0": 1
+  }, 
+  "RelativeAnimatedCam::RelativeAnimatedCam": {
+    "0x128": 1
+  }, 
+  "ps2Vram::ps2Vram": {
+    "0x3c": 1
+  }, 
+  "FrontEndRenderLayer::FrontEndRenderLayer": {
+    "0x3c": 1
+  }, 
+  "IRadMemoryHeap::IRadMemoryHeap": {
+    "0x4a0": 1
+  }, 
+  "radmusic::composition_data_loader::composition_data_loader": {
+    "0x8": 1
+  }, 
+  "choreo::RootTransformController::RootTransformController": {
+    "0x78": 1
+  }, 
+  "Sound::daSoundDynaLoadRegion::daSoundDynaLoadRegion": {
+    "0x30": 1
+  }, 
+  "tLinearTable::tLinearTable": {
+    "0x24": 1
+  }, 
+  "tFileMem::tFileMem": {
+    "0x28": 2
+  }, 
+  "CGuiScreenMissionSuccess::CGuiScreenMissionSuccess": {
+    "0x22c": 1
+  }, 
+  "MemoryPool::MemoryPool": {
+    "0x4c": 1
+  }, 
+  "radThreadMutex::radThreadMutex": {
+    "0x1c": 1
+  }, 
+  "AttractionBehaviour::AttractionBehaviour": {
+    "0x30": 1
+  }, 
+  "FenceEntityDSG::FenceEntityDSG": {
+    "0x5c": 2
+  }, 
+  "RewardsManager::RewardsManager": {
+    "0x888": 1
+  }, 
+  "VehicleCentral::VehicleCentral": {
+    "0x288": 1
+  }, 
+  "radInstanceDrive::radInstanceDrive": {
+    "0x48": 1
+  }, 
+  "FeResourceManager::P3DCallback::P3DCallback": {
+    "0x10": 1
+  }, 
+  "ps2SimpleShader::ps2SimpleShader": {
+    "0x90": 3
+  }, 
+  "CGuiScreenSkinGallery::CGuiScreenSkinGallery": {
+    "0xd0": 1
+  }, 
+  "radThreadLocalStorage::radThreadLocalStorage": {
+    "0x14": 1
+  }, 
+  "CGuiScreenCardGallery::CGuiScreenCardGallery": {
+    "0xfc": 1
+  }, 
+  "TrafficAI::TrafficAI": {
+    "0xb4": 1
+  }, 
+  "CGuiScreenSaveGame::CGuiScreenSaveGame": {
+    "0xd0": 1
+  }, 
+  "tLoadManager::tLoadManager": {
+    "0x8": 1
+  }, 
+  "CGuiScreenViewCards::CGuiScreenViewCards": {
+    "0x104": 1
+  }, 
+  "ActionButton::WrenchIcon::WrenchIcon": {
+    "0x30": 1
+  }, 
+  "radSoundHalSystem::radSoundHalSystem": {
+    "0x30": 1
+  }, 
+  "Sound::daSoundTuner_ActiveFadeInfo::daSoundTuner_ActiveFadeInfo": {
+    "0x14": 1
+  }, 
+  "tColourChannel::tColourChannel": {
+    "0x24": 1
+  }, 
+  "ps2ErrorShader::ps2ErrorShader": {
+    "0x18": 1
+  }, 
+  "SuperSprintCam::SuperSprintCam": {
+    "0x128": 1
+  }, 
+  "AllocPool<FMVEvent>::AllocPool": {
+    "0x18": 1
+  }, 
+  "AnimDynaPhysWrapper::AnimDynaPhysWrapper": {
+    "0x2c": 2
+  }, 
+  "ChaseManager::ChaseManager": {
+    "0x124": 1
+  }, 
+  "DriveFormatRequest::DriveFormatRequest": {
+    "0xc": 1
+  }, 
+  "ConversationCam::ConversationCam": {
+    "0x148": 2
+  }, 
+  "CGuiScreenBootupLoad::CGuiScreenBootupLoad": {
+    "0xa0": 1
+  }, 
+  "tIntChannel::tIntChannel": {
+    "0x24": 1
+  }, 
+  "tLightAnimationController::tLightAnimationController": {
+    "0xb8": 2
+  }, 
+  "ActionButton::PurchaseSkin::PurchaseSkin": {
+    "0x44": 1
+  }, 
+  "TriggerVolumeTracker::TriggerVolumeTracker": {
+    "0x194c": 1
+  }, 
+  "MemoryCardManager::MemoryCardManager": {
+    "0x58": 1
+  }, 
+  "tPolySkin::tPolySkin": {
+    "0x58": 1
+  }, 
+  "sim::CollisionObject::CollisionObject": {
+    "0x68": 2
+  }, 
+  "choreo::BlendJointDriver::BlendJointDriver": {
+    "0xc": 1
+  }, 
+  "sim::ArticulatedPhysicsObject::ArticulatedPhysicsObject": {
+    "0x210": 1
+  }, 
+  "CGuiScreenLoading::CGuiScreenLoading": {
+    "0x118": 1
+  }, 
+  "FeProject::FeProject": {
+    "0x1c4": 2
+  }, 
+  "radMovieRenderStrategyPs2::radMovieRenderStrategyPs2": {
+    "0x44": 1
+  }, 
+  "sim::VoidPList::VoidPList": {
+    "0x18": 4
+  }, 
+  "AttackBehaviour::AttackBehaviour": {
+    "0x30": 1
+  }, 
+  "tFloat2Channel::tFloat2Channel": {
+    "0x24": 1
+  }, 
+  "PresentationOverlay::PresentationOverlay": {
+    "0x28": 1
+  }, 
+  "CGuiScreenLoadGame::CGuiScreenLoadGame": {
+    "0xd0": 1
+  }, 
+  "DebugCam::DebugCam": {
+    "0xec": 1
+  }, 
+  "choreo::AnimationRootDriver::AnimationRootDriver": {
+    "0x14": 1
+  }, 
+  "iControllerLocation2::iControllerLocation2": {
+    "0x54": 2
+  }, 
+  "radmusic::radload_composition_adapter::radload_composition_adapter": {
+    "0xc": 1
+  }, 
+  "CGuiScreenMemCardCheck::CGuiScreenMemCardCheck": {
+    "0xb4": 2
+  }, 
+  "PathManager::PathManager": {
+    "0x10": 1
+  }, 
+  "radSoundHalAudioFormat::radSoundHalAudioFormat": {
+    "0x2c": 1
+  }, 
+  "ReverseEngineState::ReverseEngineState": {
+    "0x2c": 1
+  }, 
+  "AvatarManager::AvatarManager": {
+    "0x18": 1
+  }, 
+  "choreo::StringFileReader::StringFileReader": {
+    "0x18": 1
+  }, 
+  "IntersectManager::IntersectManager": {
+    "0x19c": 1
+  }, 
+  "choreo::ReplayDriverInternal::ReplayDriverInternal": {
+    "0xc": 1
+  }, 
+  "sim::PhysicsObjectLoader::PhysicsObjectLoader": {
+    "0x14": 4
+  }, 
+  "CGuiScreenMessage::CGuiScreenMessage": {
+    "0x2a8": 3
+  }, 
+  "CGuiTextBible::CGuiTextBible": {
+    "0x4": 1
+  }, 
+  "CGuiMenu::CGuiMenu": {
+    "0x3c": 21
+  }, 
+  "StaticPhysDSG::StaticPhysDSG": {
+    "0x78": 1
+  }, 
+  "tCompositeDrawable::tCompositeDrawable": {
+    "0x6c": 2
+  }, 
+  "radDriveThread::radDriveThread": {
+    "0x50": 4
+  }, 
+  "CGuiScreenSound::CGuiScreenSound": {
+    "0xb8": 1
+  }, 
+  "tCompressedQuaternionChannel::tCompressedQuaternionChannel": {
+    "0x24": 2
+  }, 
+  "MissionScriptLoader::MissionScriptLoader": {
+    "0x34": 1
+  }, 
+  "CGuiScreenScrapBookContents::CGuiScreenScrapBookContents": {
+    "0xd4": 1
+  }, 
+  "radSoundHalListener::radSoundHalListener": {
+    "0xff4": 1
+  }, 
+  "radSoundMemoryDataSource::radSoundMemoryDataSource": {
+    "0x38": 1
+  }, 
+  "ZoneEventLocator::ZoneEventLocator": {
+    "0xc0": 6
+  }, 
+  "PhoneBoothStars::PhoneBoothStars": {
+    "0x14": 4
+  }, 
+  "sim::SphereVolume::SphereVolume": {
+    "0x50": 2
+  }, 
+  "ActorDSG::ActorDSG": {
+    "0x108": 1
+  }, 
+  "tVertexList::tVertexList": {
+    "0x58": 1
+  }, 
+  "CheatInputSystem::CheatInputSystem": {
+    "0x98": 1
+  }, 
+  "tVector2OffsetList::tVector2OffsetList": {
+    "0x14": 1
+  }, 
+  "tVector3DOFChannel::tVector3DOFChannel": {
+    "0x24": 1
+  }, 
+  "TutorialManager::TutorialManager": {
+    "0x24": 1
+  }, 
+  "HeapManager::HeapManager": {
+    "0x14": 1
+  }, 
+  "radStopwatch::radStopwatch": {
+    "0x24": 1
+  }, 
+  "RenderManager::RenderManager": {
+    "0x80": 1
+  }, 
+  "radMovieIpuPs2::radMovieIpuPs2": {
+    "0x24": 1
+  }, 
+  "choreo::Blend::Blend": {
+    "0x48": 1
+  }, 
+  "tImage8::tImage8": {
+    "0x430": 2
+  }, 
+  "DriveMediaRequest::DriveMediaRequest": {
+    "0x10": 1
+  }, 
+  "tTargaHandler::tTargaHandler": {
+    "0x18": 3
+  }, 
+  "PedestrianManager::PedestrianManager": {
+    "0x23a4": 1
+  }, 
+  "tLensFlareGroupLoader::tLensFlareGroupLoader": {
+    "0x14": 1
+  }, 
+  "choreo::Engine::Engine": {
+    "0x30": 1
+  }, 
+  "ps2MatrixPalette::ps2MatrixPalette": {
+    "0x820": 1
+  }, 
+  "rController2::rController2": {
+    "0x100": 1
+  }, 
+  "HudCardCollected::HudCardCollected": {
+    "0x3c": 1
+  }, 
+  "tTextureFontLoader::tTextureFontLoader": {
+    "0x14": 1
+  }, 
+  "BonusCard::BonusCard": {
+    "0x28": 1
+  }, 
+  "AnimatedCam::AnimatedCam": {
+    "0xe4": 2
+  }, 
+  "SoundDebugDisplay::SoundDebugDisplay": {
+    "0x1c": 1
+  }, 
+  "tAnimationLoader::tAnimationLoader": {
+    "0x18": 5
+  }, 
+  "ActionButton::AutoPlayAnimInOut::AutoPlayAnimInOut": {
+    "0x40": 1
+  }, 
+  "RacePositionBonusObjective::RacePositionBonusObjective": {
+    "0x18": 1
+  }, 
+  "sim::PhysicsObject::PhysicsObject": {
+    "0x1d0": 2
+  }, 
+  "radPs2CdDrive::radPs2CdDrive": {
+    "0x1407c": 1
+  }, 
+  "RadicalMathLibrary::Matrix::Identity": {
+    "0x40": 1
+  }, 
+  "tBillboardQuadGroupLoader::tBillboardQuadGroupLoader": {
+    "0x14": 2
+  }, 
+  "VehicleMappable::VehicleMappable": {
+    "0x2a0": 3
+  }, 
+  "sim::PhysicsJoint1D::PhysicsJoint1D": {
+    "0x128": 1
+  }, 
+  "Sound::daSoundClipStreamPlayer::daSoundClipStreamPlayer": {
+    "0x7c": 2
+  }, 
+  "tPrimGroupSkinnedOptimised::tPrimGroupSkinnedOptimised": {
+    "0x30": 1
+  }, 
+  "tLensFlare::tLensFlare": {
+    "0x48": 1
+  }, 
+  "ps2MFIFO::ps2MFIFO": {
+    "0x28": 1
+  }, 
+  "CGuiScreenLoadingFE::CGuiScreenLoadingFE": {
+    "0xe8": 1
+  }, 
+  "choreo::Rig::Rig": {
+    "0x40": 1
+  }, 
+  "tImageConverter::tImageConverter": {
+    "0x4": 3
+  }, 
+  "PathSegment::PathSegment": {
+    "0x48": 1
+  }, 
+  "tGameAttr::tGameAttr": {
+    "0x18": 1
+  }, 
+  "tExpressionGroup::tExpressionGroup": {
+    "0x34": 1
+  }, 
+  "tLoadRequest::tLoadRequest": {
+    "0x30": 4
+  }, 
+  "FeTextBible::FeTextBible": {
+    "0x50": 1
+  }, 
+  "ActionController::ActionController": {
+    "0x9b4": 1
+  }, 
+  "StatePropDSG::StatePropDSG": {
+    "0xf4": 2
+  }, 
+  "tParticleSystemFactoryLoader::tParticleSystemFactoryLoader": {
+    "0x14": 3
+  }, 
+  "Character::Character": {
+    "0x3e0": 1
+  }, 
+  "tExpressionGroupLoader::tExpressionStore::tExpressionStore": {
+    "0x18": 1
+  }, 
+  "tPose::tPose": {
+    "0x20": 4
+  }, 
+  "tEventOriginSequencer::tEventOriginSequencer": {
+    "0xc": 1
+  }, 
+  "tExpression::tExpression": {
+    "0x30": 1
+  }, 
+  "choreo::BlendPhase::BlendPhase": {
+    "0x60": 1
+  }, 
+  "CGuiManagerMiniGame::CGuiManagerMiniGame": {
+    "0x138": 1
+  }, 
+  "PtrQueue::PtrQueue": {
+    "0x20": 2
+  }, 
+  "AnimObjDSGWrapperLoader::AnimObjDSGWrapperLoader": {
+    "0x48": 1
+  }, 
+  "GameDataManager::GameDataManager": {
+    "0x78": 1
+  }, 
+  "LGDevWheelOutputPoint::LGDevWheelOutputPoint": {
+    "0x5c": 5
+  }, 
+  "FlyingActor::FlyingActor": {
+    "0xd4": 1
+  }, 
+  "ps2Texture::ps2Texture": {
+    "0xf8": 1
+  }, 
+  "tCompositeDrawableLoader::tCompositeDrawableLoader": {
+    "0x14": 9
+  }, 
+  "tPrimGroupStreamed::tPrimGroupStreamed": {
+    "0x2c": 1
+  }, 
+  "tAnimatedObjectLoader::tAnimatedObjectLoader": {
+    "0x14": 3
+  }, 
+  "StaticEntityDSG::StaticEntityDSG": {
+    "0x38": 2
+  }, 
+  "Wheel::Wheel": {
+    "0x60": 1
+  }, 
+  "AiVehicleController::AiVehicleController": {
+    "0x3c": 1
+  }, 
+  "tAnimatedObjectFrameController::tAnimatedObjectFrameController": {
+    "0x24": 2
+  }, 
+  "CGuiManagerFrontEnd::CGuiManagerFrontEnd": {
+    "0x138": 1
+  }, 
+  "rControllerInputPoint2::rControllerInputPoint2": {
+    "0x40": 3
+  }, 
+  "Sound::daSoundFileInstance::daSoundFileInstance": {
+    "0x18": 1
+  }, 
+  "tStringChannel::tStringChannel": {
+    "0x24": 1
+  }, 
+  "radSoundMemorySpaceObject::radSoundMemorySpaceObject": {
+    "0x24": 1
+  }, 
+  "MemorySpaceAsyncRequest_CopyIopToEe::MemorySpaceAsyncRequest_CopyIopToEe": {
+    "0x40": 1
+  }, 
+  "tGeometryOffset::tGeometryOffset": {
+    "0x10": 1
+  }, 
+  "LensFlareDSG::LensFlareDSG": {
+    "0x68": 1
+  }, 
+  "poser::Pose::Pose": {
+    "0x14": 3
+  }, 
+  "tP3DFileHandler::tP3DFileHandler": {
+    "0x4c": 1
+  }, 
+  "radSoundStitchedDataSource::radSoundStitchedDataSource": {
+    "0x4c": 1
+  }, 
+  "tSEQFileHandler::tSEQFileHandler": {
+    "0x10": 1
+  }, 
+  "tSequencerLoader::tSequencerLoader": {
+    "0x10": 1
+  }, 
+  "tShaderAnimationController::tShaderAnimationController": {
+    "0xb4": 2
+  }, 
+  "sim::SimulatedObject::SimulatedObject": {
+    "0x1d0": 1, 
+    "0x210": 1
+  }, 
+  "FeScreen::FeScreen": {
+    "0xd8": 2
+  }, 
+  "CGuiScreenMiniSummary::CGuiScreenMiniSummary": {
+    "0x150": 1
+  }, 
+  "choreo::ExclusivePartition::ExclusivePartition": {
+    "0x34": 1
+  }, 
+  "CollisionAttributes::CollisionAttributes": {
+    "0x100": 1
+  }, 
+  "InCarCharacterMappable::InCarCharacterMappable": {
+    "0x29c": 1
+  }, 
+  "KullCam::KullCam": {
+    "0xf8": 2
+  }, 
+  "tBillboardQuadGroupAnimationController::tBillboardQuadGroupAnimationController": {
+    "0x30": 2
+  }, 
+  "radSoundVoiceAdpcmPs2::radSoundVoiceAdpcmPs2": {
+    "0x84": 1
+  }, 
+  "tVectorCamera::tVectorCamera": {
+    "0xf0": 1
+  }, 
+  "CGuiManagerLanguage::CGuiManagerLanguage": {
+    "0x300": 1
+  }, 
+  "SoundLoader::SoundLoader": {
+    "0x1d4": 1
+  }, 
+  "CGuiScreenMiniHud::CGuiScreenMiniHud": {
+    "0x98": 1
+  }, 
+  "CGuiScreenPhoneBooth::CGuiScreenPhoneBooth": {
+    "0x2dbc": 1
+  }, 
+  "GameplayContext::GameplayContext": {
+    "0x10": 1
+  }, 
+  "BillboardQuadManager::BillboardQuadManager": {
+    "0x10": 1
+  }, 
+  "radCementLibrary::radCementLibrary": {
+    "0x3c": 1
+  }, 
+  "EvasionBehaviour::EvasionBehaviour": {
+    "0xa8": 1
+  }, 
+  "Projectile::Projectile": {
+    "0x9c": 1
+  }, 
+  "radSoundClipPlayer::radSoundClipPlayer": {
+    "0x28": 1
+  }, 
+  "CameraPlayer::CameraPlayer": {
+    "0xa0": 1
+  }, 
+  "ATCManager::ATCManager": {
+    "0x8": 1
+  }, 
+  "tExpressionOffsets::tExpressionOffsets": {
+    "0x20": 1
+  }, 
+  "StaticHeap::StaticHeap": {
+    "0x2c": 1
+  }, 
+  "choreo::ReplayBlender::ReplayBlender": {
+    "0x30": 1
+  }, 
+  "MusicPlayer::MusicPlayer": {
+    "0x78": 1
+  }, 
+  "radPs2MemcardDrive::radPs2MemcardDrive": {
+    "0x148": 1
+  }, 
+  "RespawnManager::RespawnManager": {
+    "0xc": 1
+  }, 
+  "tExpressionGroupLoader::tExpressionGroupLoader": {
+    "0x14": 1
+  }, 
+  "WorldScene::WorldScene": {
+    "0xe4": 1
+  }, 
+  "Avatar::Avatar": {
+    "0x3c": 1
+  }, 
+  "SoundManager::SoundManager": {
+    "0x100": 1
+  }, 
+  "CGuiScreenViewCredits::CGuiScreenViewCredits": {
+    "0x300": 1
+  }, 
+  "DialogLine::DialogLine": {
+    "0x2c": 2
+  }, 
+  "AnimCollisionEntityDSG::AnimCollisionEntityDSG": {
+    "0xbc": 1
+  }, 
+  "FeApp::FeApp": {
+    "0x48": 1
+  }, 
+  "choreo::AnimationJointDriver::AnimationJointDriver": {
+    "0x10": 1
+  }, 
+  "choreo::UnionPartition::UnionPartition": {
+    "0x20": 1
+  }, 
+  "CGuiScreenPauseController::CGuiScreenPauseController": {
+    "0x300": 1
+  }, 
+  "Reward::Reward": {
+    "0x70": 6
+  }, 
+  "ChaseAI::ChaseAI": {
+    "0xd9c": 3
+  }, 
+  "choreo::Replay::Replay": {
+    "0x30": 1
+  }, 
+  "TutorialMode*__uninitialized_copy_aux<TutorialMode*,TutorialMode*>": {
+    "0x40": 1
+  }, 
+  "CharacterTarget::CharacterTarget": {
+    "0x10": 1
+  }, 
+  "IRadString::IRadString": {
+    "0x18": 1
+  }, 
+  "tVertexAnimKeyLoader::tVertexAnimKeyLoader": {
+    "0x14": 1
+  }, 
+  "CGuiScreenIntroTransition::CGuiScreenIntroTransition": {
+    "0xa8": 1
+  }, 
+  "radSoundEffectPs2::radSoundEffectPs2": {
+    "0x30": 1
+  }, 
+  "tQuaternionChannel::tQuaternionChannel": {
+    "0x24": 1
+  }, 
+  "CGuiScreenMemoryCard::CGuiScreenMemoryCard": {
+    "0x17c": 2
+  }, 
+  "choreo::MultiBank::MultiBank": {
+    "0x18": 1
+  }, 
+  "choreo::RootFixupDriver::RootFixupDriver": {
+    "0x1c": 1
+  }, 
+  "choreo::InclusivePartition::InclusivePartition": {
+    "0x38": 1
+  }, 
+  "tGeometry::tGeometry": {
+    "0x48": 1
+  }, 
+  "EntryContext::EntryContext": {
+    "0x8": 1
+  }, 
+  "LGDevWheelController::LGDevWheelController": {
+    "0x40": 1
+  }, 
+  "CGuiUserInputHandler::CGuiUserInputHandler": {
+    "0x700": 1
+  }, 
+  "BreakablesManager::BreakablesManager": {
+    "0x54": 1
+  }, 
+  "carSoundParameters::carSoundParameters": {
+    "0x114": 1
+  }, 
+  "FeTextBibleLoader::FeTextBibleLoader": {
+    "0x14": 1
+  }, 
+  "EventLocator::EventLocator": {
+    "0x80": 5
+  }, 
+  "PS2Platform::PS2Platform": {
+    "0x1c": 1
+  }, 
+  "RoadManager::BigIntersection::BigIntersection": {
+    "0x3c": 1
+  }, 
+  "CGuiManagerBackEnd::CGuiManagerBackEnd": {
+    "0x130": 1
+  }, 
+  "tDrawable::tDrawable": {
+    "0x2c": 1
+  }, 
+  "DriveFindCloseRequest::DriveFindCloseRequest": {
+    "0xc": 1
+  }, 
+  "CGuiScreenScrapBook::CGuiScreenScrapBook": {
+    "0xa0": 1
+  }, 
+  "memset": {
+    "0xef10": 1
+  }, 
+  "DriveFileDestroyRequest::DriveFileDestroyRequest": {
+    "0x110": 1
+  }, 
+  "tVertexOffsetExpressionMixer::tVertexOffsetExpressionMixer": {
+    "0x4c": 1
+  }, 
+  "UFOBeamAlwaysOn::UFOBeamAlwaysOn": {
+    "0x14": 1
+  }, 
+  "FeSprite::FeSprite": {
+    "0x108": 2
+  }, 
+  "AllocPool<TransitionEvent>::AllocPool": {
+    "0x18": 1
+  }, 
+  "tPointGenerator::tPointGenerator": {
+    "0x48": 1
+  }, 
+  "choreo::RigLeg::RigLeg": {
+    "0x58": 1
+  }, 
+  "Scenegraph::LightGroup::LightGroup": {
+    "0x1c": 1
+  }, 
+  "StatePropCollectible::StatePropCollectible": {
+    "0x154": 2
+  }, 
+  "ParticleSystemDSG::ParticleSystemDSG": {
+    "0x58": 1
+  }, 
+  "ExitContext::ExitContext": {
+    "0x8": 1
+  }, 
+  "tAnimatedObject::tAnimatedObject": {
+    "0x24": 2
+  }, 
+  "SuperSprintContext::SuperSprintContext": {
+    "0xc": 1
+  }, 
+  "sim::CollisionObjectLoader::CollisionObjectLoader": {
+    "0x14": 7
+  }, 
+  "XMLTree::XMLTree": {
+    "0x24": 3
+  }, 
+  "radSoundStreamPlayer::radSoundStreamPlayer": {
+    "0x68": 1
+  }, 
+  "choreo::RootBlender::RootBlender": {
+    "0x168": 1
+  }, 
+  "NPCharacter::NPCharacter": {
+    "0x3e4": 1
+  }, 
+  "WorldCollisionSolverAgentManager::WorldCollisionSolverAgentManager": {
+    "0x10": 1
+  }, 
+  "ActionButton::DestroyObject::DestroyObject": {
+    "0x44": 1
+  }, 
+  "CGuiScreenTutorial::CGuiScreenTutorial": {
+    "0xa8": 1
+  }, 
+  "choreo::ScriptReader::ScriptReader": {
+    "0x21634": 1
+  }, 
+  "FeTextChildHardCodedString::FeTextChildHardCodedString": {
+    "0x18": 2
+  }, 
+  "choreo::P3DInventoryWrapperBank::RawIterator::RawIterator": {
+    "0x14": 1
+  }, 
+  "LoadingDemoContext::LoadingDemoContext": {
+    "0xc": 1
+  }, 
+  "RedBrickCollisionSolverAgent::RedBrickCollisionSolverAgent": {
+    "0x1c": 1
+  }, 
+  "sim::VirtualCM::VirtualCM": {
+    "0x54": 1, 
+    "0x50": 1
+  }, 
+  "ExternalMemoryHeap::ExternalMemoryHeap": {
+    "0x24": 1
+  }, 
+  "CGuiScreenMissionSelect::CGuiScreenMissionSelect": {
+    "0xf8": 1
+  }, 
+  "CGuiScreenLicense::CGuiScreenLicense": {
+    "0x98": 1
+  }, 
+  "tAnimatedObjectFactoryLoader::tAnimatedObjectFactoryLoader": {
+    "0x14": 3
+  }, 
+  "CameraDataLoader::CameraDataLoader": {
+    "0x8": 2
+  }, 
+  "CheatInputHandler::CheatInputHandler": {
+    "0x2b4": 1
+  }, 
+  "DriveFindNextRequest::DriveFindNextRequest": {
+    "0x10": 1
+  }, 
+  "tLightGroup::tLightGroup": {
+    "0x24": 1
+  }, 
+  "PhysicsLocomotion::PhysicsLocomotion": {
+    "0x194": 1
+  }, 
+  "radSoundBufferAdpcmPs2::radSoundBufferAdpcmPs2": {
+    "0x28": 1
+  }, 
+  "GuiMenuItemSprite::GuiMenuItemSprite": {
+    "0x44": 1
+  }, 
+  "Vehicle::Vehicle": {
+    "0x558": 1
+  }, 
+  "tEntityChannel::tEntityChannel": {
+    "0x24": 1
+  }, 
+  "UpshiftEngineState::UpshiftEngineState": {
+    "0x38": 1
+  }, 
+  "LoadingManager::LoadingManager": {
+    "0x7400": 1
+  }, 
+  "sim::SimStateArticulated::SimStateArticulated": {
+    "0xb4": 1
+  }, 
+  "SuperCamController::SuperCamController": {
+    "0x29c": 2
+  }, 
+  "LoadingSuperSprintContext::LoadingSuperSprintContext": {
+    "0x10": 1
+  }, 
+  "PersistentWorldManager::PersistentWorldManager": {
+    "0x1": 1
+  }, 
+  "NPCController::NPCController": {
+    "0x214": 1
+  }, 
+  "radLoadManager::radLoadManager": {
+    "0x50": 1
+  }, 
+  "CoinManager::CoinManager": {
+    "0x38": 1
+  }, 
+  "FMVPlayer::FMVPlayer": {
+    "0x44": 1
+  }, 
+  "rControllerOutputPoint2::rControllerOutputPoint2": {
+    "0x20": 2
+  }, 
+  "AnimatedIcon::AnimIconDSG::AnimIconDSG": {
+    "0x58": 2
+  }, 
+  "choreo::AnimationFrame::AnimationFrame": {
+    "0x30": 1
+  }, 
+  "radTimerList::radTimerList": {
+    "0x24": 1
+  }, 
+  "SoundRenderingPlayerCallback::SoundRenderingPlayerCallback": {
+    "0x20": 2
+  }, 
+  "ActorAnimationUFO::ActorAnimationUFO": {
+    "0x8": 1
+  }, 
+  "HudMapCam::HudMapCam": {
+    "0x108": 1
+  }, 
+  "ActionButton::EnterInterior::EnterInterior": {
+    "0x10": 1
+  }, 
+  "RadicalMathLibrary::Vector*__uninitialized_copy_aux<RadicalMathLibrary::Vector*,RadicalMathLibrary::Vector*>": {
+    "0x48": 1
+  }, 
+  "FeTextStyle::FeTextStyle": {
+    "0x24": 1
+  }, 
+  "HumanVehicleController::HumanVehicleController": {
+    "0x34": 1
+  }, 
+  "WalkerCam::WalkerCam": {
+    "0x1c4": 4
+  }, 
+  "tBMPHandler::tBMPHandler": {
+    "0x18": 3
+  }, 
+  "CheatsDB::CheatsDB": {
+    "0x8": 1
+  }, 
+  "DialogList::DialogList": {
+    "0x54c": 1
+  }, 
+  "InputManager::InputManager": {
+    "0x3444": 1
+  }, 
+  "DemoContext::DemoContext": {
+    "0x14": 1
+  }, 
+  "PlayerDrawable::PlayerDrawable": {
+    "0x18": 1
+  }, 
+  "CStateProp::CStateProp": {
+    "0x50": 1
+  }, 
+  "tLightGroupLoader::tLightGroupLoader": {
+    "0x14": 1
+  }, 
+  "CharacterAi::StateManager::StateManager": {
+    "0xc": 1
+  }, 
+  "FileSetPositionRequest::FileSetPositionRequest": {
+    "0x10": 1
+  }, 
+  "CharacterSheetManager::CharacterSheetManager": {
+    "0x1be8": 1
+  }, 
+  "SafeZone::SafeZone": {
+    "0xc": 1
+  }, 
+  "choreo::P3DEntityStoreWrapperBank::P3DEntityStoreWrapperBank": {
+    "0x14": 1
+  }, 
+  "CStatePropData::CStatePropData": {
+    "0x5c": 1
+  }, 
+  "RailCam::RailCam": {
+    "0x3fc": 1
+  }, 
+  "BreakableObjectDSG::BreakableObjectDSG": {
+    "0x4c": 1
+  }, 
+  "ActionButton::GenericEventButtonHandler::GenericEventButtonHandler": {
+    "0x18": 1
+  }, 
+  "FeGroup::FeGroup": {
+    "0xc0": 2
+  }, 
+  "PascalCString::PascalCString": {
+    "0x10": 6
+  }, 
+  "DSGFactory::DSGFactory": {
+    "0x1": 1
+  }, 
+  "poser::PoseDriver::PoseDriver": {
+    "0x18": 4, 
+    "0x38": 1
+  }, 
+  "radMovieAudioDataSource::radMovieAudioDataSource": {
+    "0x34": 1
+  }, 
+  "ActionButton::PlayAnimOnce::PlayAnimOnce": {
+    "0x3c": 1
+  }, 
+  "ActionButton::CollectibleCard::CollectibleCard": {
+    "0x1c": 1
+  }, 
+  "HudCountDown::HudCountDown": {
+    "0x40": 1
+  }, 
+  "radSoundDataCacheDataSource::radSoundDataCacheDataSource": {
+    "0x1c": 1
+  }, 
+  "Scenegraph::Loader::Loader": {
+    "0x2c": 1
+  }, 
+  "CGuiMenuPrompt::CGuiMenuPrompt": {
+    "0x40": 2
+  }, 
+  "radSoundRsdFileDataSource::radSoundRsdFileDataSource": {
+    "0x74": 1
+  }, 
+  "globalSettings::globalSettings__global_constructors": {
+    "0x140": 1
+  }, 
+  "choreo::AnimationDriver::AnimationDriver": {
+    "0x3c": 2
+  }, 
+  "CGuiScreenLevelEnd::CGuiScreenLevelEnd": {
+    "0xc0": 1
+  }, 
+  "FePolygon::FePolygon": {
+    "0xec": 2
+  }, 
+  "XMLNode::XMLNode": {
+    "0x70": 2
+  }, 
+  "NISPlayer::NISPlayer": {
+    "0xa0": 3
+  }, 
+  "tVectorOffsetList::tVectorOffsetList": {
+    "0x14": 1
+  }, 
+  "CGuiScreenDemo::CGuiScreenDemo": {
+    "0xa0": 1
+  }, 
+  "reverbSettings::reverbSettings": {
+    "0x78": 1
+  }, 
+  "CGuiScreenPauseSettings::CGuiScreenPauseSettings": {
+    "0xb4": 1
+  }, 
+  "ps2TexCache::ps2TexCache": {
+    "0x24": 1
+  }, 
+  "tVector1DOFChannel::tVector1DOFChannel": {
+    "0x34": 1
+  }, 
+  "CGuiScreenMiniMenu::CGuiScreenMiniMenu": {
+    "0x274": 1
+  }, 
+  "ReverseCam::ReverseCam": {
+    "0x140": 1
+  }, 
+  "InstDynaPhysDSG::InstDynaPhysDSG": {
+    "0xe4": 3
+  }, 
+  "ParticleManager::ManagedParticleSystem::ManagedParticleSystem": {
+    "0x18": 1
+  }, 
+  "tPlaneGenerator::tPlaneGenerator": {
+    "0x84": 1
+  }, 
+  "sim::CylinderVolume::CylinderVolume": {
+    "0x7c": 2
+  }, 
+  "ActionEventLocator::ActionEventLocator": {
+    "0x90": 1
+  }, 
+  "RenderFlow::RenderFlow": {
+    "0x18": 1
+  }, 
+  "SuperSprintManager::SuperSprintManager": {
+    "0x1e5c": 1
+  }, 
+  "tPNGHandler::tPNGHandler": {
+    "0x18": 3
+  }, 
+  "tShader::tShader": {
+    "0x18": 10
+  }, 
+  "TrackerCam::TrackerCam": {
+    "0xfc": 1
+  }, 
+  "CGuiScreenMissionGallery::CGuiScreenMissionGallery": {
+    "0xcc": 1
+  }, 
+  "DialogQueueElement::DialogQueueElement": {
+    "0x44": 1
+  }, 
+  "InAirEngineState::InAirEngineState": {
+    "0x2c": 1
+  }, 
+  "radRemoteDrive::radRemoteDrive": {
+    "0x7978": 1
+  }, 
+  "WorldSphereDSG::WorldSphereDSG": {
+    "0x60": 1
+  }, 
+  "SuperSprintFEContext::SuperSprintFEContext": {
+    "0xc": 1
+  }, 
+  "BootupContext::BootupContext": {
+    "0x1c": 1
+  }, 
+  "AnimDynaPhysWrapperLoader::AnimDynaPhysWrapperLoader": {
+    "0x3c": 1
+  }, 
+  "HudCoinCollected::HudCoinCollected": {
+    "0x34": 1
+  }, 
+  "SpawnPoint::SpawnPoint": {
+    "0x84": 2
+  }, 
+  "tParticlePool::tParticlePool": {
+    "0x18": 1
+  }, 
+  "Fader::Fader": {
+    "0x7c": 4
+  }, 
+  "Scenegraph::Drawable::Drawable": {
+    "0x24": 1
+  }, 
+  "radLoadHashedStore::radLoadHashedStore": {
+    "0x18": 2
+  }, 
+  "tCompDrawVisibilityAnimationController::tCompDrawVisibilityAnimationController": {
+    "0x34": 2
+  }, 
+  "tPrimGroupSkinnedStreamed::tPrimGroupSkinnedStreamed": {
+    "0x38": 1
+  }, 
+  "tShaderLoader::tShaderLoader": {
+    "0x14": 1
+  }, 
+  "AnimEntityDSGManager::AnimEntityDSGManager": {
+    "0x100": 1
+  }, 
+  "RectTriggerVolume::RectTriggerVolume": {
+    "0xf4": 2
+  }, 
+  "WorldPhysicsManager::WorldPhysicsManager": {
+    "0x8c": 1
+  }, 
+  "CompletionEventRequest::CompletionEventRequest": {
+    "0x10": 2
+  }, 
+  "tBillboardQuad::tBillboardQuad": {
+    "0x130": 1
+  }, 
+  "tSetLoader::tSetLoader": {
+    "0x8": 1
+  }, 
+  "choreo::RootDriver::RootDriver": {
+    "0x18": 3
+  }, 
+  "ScrollingText::ScrollingText": {
+    "0x2c": 1
+  }, 
+  "FollowCam::FollowCam": {
+    "0x1c4": 6
+  }, 
+  "GeometryVehicle::GeometryVehicle": {
+    "0x260": 1
+  }, 
+  "InstStatEntityDSG::InstStatEntityDSG": {
+    "0x44": 1
+  }, 
+  "tEffectController::tEffectController": {
+    "0x1c": 2
+  }, 
+  "tLightLoader::tLightLoader": {
+    "0x14": 1
+  }, 
+  "WaypointAI::WaypointAI": {
+    "0x10ac": 8
+  }, 
+  "SoundCluster::SoundCluster": {
+    "0x15c": 3
+  }, 
+  "NormalEngineState::NormalEngineState": {
+    "0x40": 1
+  }, 
+  "WorldRenderLayer::WorldRenderLayer": {
+    "0x184": 1
+  }, 
+  "ActionButton::AnimCollisionEntityDSGWrapper::AnimCollisionEntityDSGWrapper": {
+    "0x14": 2
+  }, 
+  "CGuiManagerBootUp::CGuiManagerBootUp": {
+    "0x158": 1
+  }, 
+  "Scrooby::FeProjectChunkHandler::FeProjectChunkHandler": {
+    "0x18": 1
+  }, 
+  "SoundFXGameplayLogic::SoundFXGameplayLogic": {
+    "0x270": 1
+  }, 
+  "tSpriteEmitter::tSpriteEmitter": {
+    "0x400": 1
+  }, 
+  "GroundPlanePool::GroundPlanePool": {
+    "0x14": 1
+  }, 
+  "FileGetPositionRequest::FileGetPositionRequest": {
+    "0x10": 1
+  }, 
+  "ActionButton::UseVendingMachine::UseVendingMachine": {
+    "0x38": 1
+  }, 
+  "SkidmarkManager::SkidmarkManager": {
+    "0xc": 1
+  }, 
+  "VehicleParticleEmitter::VehicleParticleEmitter": {
+    "0xc0": 1
+  }, 
+  "CharacterManager::CharacterManager": {
+    "0x5c4c": 1
+  }, 
+  "tVertexAnimObject::tVertexAnimObject": {
+    "0x20": 1
+  }, 
+  "CGuiManagerInGame::CGuiManagerInGame": {
+    "0x1cc": 1
+  }, 
+  "sim::tExportInfoLoader::tExportInfoLoader": {
+    "0x14": 1
+  }, 
+  "FePure3dObject::FePure3dObject": {
+    "0x148": 2
+  }, 
+  "MissionCondition::MissionCondition": {
+    "0xc": 1
+  }, 
+  "tAmbientLight::tAmbientLight": {
+    "0x50": 1
+  }, 
+  "choreo::CompletePartition::CompletePartition": {
+    "0x18": 1
+  }, 
+  "CGuiScreenMissionLoad::CGuiScreenMissionLoad": {
+    "0x234": 1
+  }, 
+  "radSoundDataCache::radSoundDataCache": {
+    "0x38": 1
+  }, 
+  "DownshiftEngineState::DownshiftEngineState": {
+    "0x38": 1
+  }, 
+  "radSoundClip::radSoundClip": {
+    "0x44": 1
+  }, 
+  "tRawImageHandler::tRawImageHandler": {
+    "0x18": 1
+  }, 
+  "tVertexOffsetList::tVertexOffsetList": {
+    "0x30": 1
+  }, 
+  "pddiFont::pddiFont": {
+    "0x4": 1
+  }, 
+  "tPrimGroupOptimised::tPrimGroupOptimised": {
+    "0x28": 1
+  }, 
+  "TrafficLocomotion::TrafficLocomotion": {
+    "0x9c8": 1
+  }, 
+  "CGuiScreenPrompt::CGuiScreenPrompt": {
+    "0x2b0": 7
+  }, 
+  "CGuiScreenCreditsPostFMV::CGuiScreenCreditsPostFMV": {
+    "0x134": 1
+  }, 
+  "tPlaneGeneratorFactory::tPlaneGeneratorFactory": {
+    "0x18": 1
+  }, 
+  "radPs2HostDrive::radPs2HostDrive": {
+    "0x40130": 1
+  }, 
+  "TextDataParser::TextDataParser": {
+    "0x2c": 2
+  }, 
+  "ParticleManager::ParticleManager": {
+    "0x2c": 1
+  }, 
+  "InstStatPhysDSG::InstStatPhysDSG": {
+    "0xbc": 3
+  }, 
+  "sim::SimEnvironment::SimEnvironment": {
+    "0x3c": 1
+  }, 
+  "Scenegraph::Camera::Camera": {
+    "0x1c": 1
+  }, 
+  "InstAnimDynaPhysDSG::InstAnimDynaPhysDSG": {
+    "0xf4": 1
+  }, 
+  "ActionButton::PurchaseCar::PurchaseCar": {
+    "0x108": 1
+  }, 
+  "IntersectionList::LineSegment2D*__uninitialized_copy_aux<IntersectionList::LineSegment2D*,IntersectionList::LineSegment2D*>": {
+    "0x640": 1
+  }, 
+  "Sound::daSoundTuner::daSoundTuner": {
+    "0x138": 1
+  }, 
+  "tLocalSpriteEmitter::tLocalSpriteEmitter": {
+    "0x400": 1
+  }, 
+  "ActionButton::PrankPhone::PrankPhone": {
+    "0x38": 1
+  }, 
+  "BipedCharacterMappable::BipedCharacterMappable": {
+    "0x29c": 1
+  }, 
+  "IntersectDSG::IntersectDSG": {
+    "0x8c": 2
+  }, 
+  "AllocPool<NISEvent>::AllocPool": {
+    "0x18": 1
+  }, 
+  "EventManager::EventManager": {
+    "0x1ef0": 1
+  }, 
+  "BumperCam::BumperCam": {
+    "0x128": 2
+  }, 
+  "MissionStage::MissionStage": {
+    "0x468": 2
+  }, 
+  "TrackingHeap::TrackingHeap": {
+    "0x30": 1
+  }, 
+  "CardGallery::CardGallery": {
+    "0xf0": 1
+  }, 
+  "tCameraAnimationController::tCameraAnimationController": {
+    "0xf4": 2
+  }, 
+  "LensFlareLoader::LensFlareLoader": {
+    "0x28": 1
+  }, 
+  "IRadTypeInfoLoader::IRadTypeInfoLoader": {
+    "0x34": 1
+  }, 
+  "tImageFactory::tImageFactory": {
+    "0xa4": 3
+  }, 
+  "choreo::BlendDriver::BlendDriver": {
+    "0x20": 2
+  }, 
+  "choreo::BlendFootDriver::BlendFootDriver": {
+    "0x20": 1
+  }, 
+  "Skidmark::Skidmark": {
+    "0x6b4": 1
+  }, 
+  "CGuiScreenLanguage::CGuiScreenLanguage": {
+    "0x9c": 1
+  }, 
+  "WingAnimator::WingAnimator": {
+    "0x1c": 1
+  }, 
+  "CGuiScreenScrapBookStats::CGuiScreenScrapBookStats": {
+    "0xc0": 1
+  }, 
+  "pddiExtFramebufferEffects::pddiExtFramebufferEffects": {
+    "0x8": 1
+  }, 
+  "Scenegraph::Scenegraph::Scenegraph": {
+    "0x44": 1
+  }, 
+  "SoundFXFrontEndLogic::SoundFXFrontEndLogic": {
+    "0x80": 1
+  }, 
+  "tExpressionMixerLoader::tExpressionMixerLoader": {
+    "0x14": 1
+  }, 
+  "choreo::Puppet::Puppet": {
+    "0x24": 2
+  }, 
+  "CGuiScreenAutoLoad::CGuiScreenAutoLoad": {
+    "0xd0": 2
+  }, 
+  "CGuiScreenController::CGuiScreenController": {
+    "0x300": 1
+  }, 
+  "radFile::radFile": {
+    "0x160": 4
+  }, 
+  "MissionManager::MissionManager": {
+    "0x1830": 1
+  }, 
+  "CameraRelativeCharacterController::CameraRelativeCharacterController": {
+    "0x74": 1
+  }, 
+  "PresentationManager::PresentationManager": {
+    "0x90": 1
+  }, 
+  "radmusic::radmusic_file_loader::radmusic_file_loader": {
+    "0x8": 1
+  }, 
+  "Map<tUidUnaligned,tPose*>::Map": {
+    "0x14": 1
+  }, 
+  "ActionButton::SummonVehiclePhone::SummonVehiclePhone": {
+    "0x40": 1
+  }, 
+  "ControllerBuffer::ControllerBuffer": {
+    "0x2c": 1
+  }, 
+  "TriggerLocator::TriggerLocator": {
+    "0x3c": 1
+  }, 
+  "choreo::LocomotionDriver::LocomotionDriver": {
+    "0x48": 2
+  }, 
+  "tContext::tContext": {
+    "0x100": 1
+  }, 
+  "VehicleEventListener::VehicleEventListener": {
+    "0x8": 1
+  }, 
+  "DialogSelectionGroup::DialogSelectionGroup": {
+    "0x28": 2
+  }, 
+  "ps2Context::ps2Context": {
+    "0x410": 1
+  }, 
+  "Scenegraph::Attachment::Attachment": {
+    "0x2c": 1
+  }, 
+  "ActionButton::PlayAnimLoop::PlayAnimLoop": {
+    "0x38": 1
+  }, 
+  "CollectorCard::CollectorCard": {
+    "0x28": 1
+  }, 
+  "SaveGameInfo::SaveGameInfo": {
+    "0x118": 1
+  }, 
+  "tVertexAnimController::tVertexAnimController": {
+    "0x30": 2
+  }, 
+  "CGuiScreenMiniPause::CGuiScreenMiniPause": {
+    "0x9c": 1
+  }, 
+  "UFOAttackBehaviour::UFOAttackBehaviour": {
+    "0x38": 1
+  }, 
+  "FileCompletionRequest::FileCompletionRequest": {
+    "0x18": 1
+  }, 
+  "choreo::RootDriverInternal::RootDriverInternal": {
+    "0xc": 1
+  }, 
+  "tExpressionLoader::tExpressionLoader": {
+    "0x14": 1
+  }, 
+  "tFrameControllerLoader::tFrameControllerLoader": {
+    "0x1c": 8
+  }, 
+  "tBoolChannel::tBoolChannel": {
+    "0x24": 1
+  }, 
+  "tVector2DOFChannel::tVector2DOFChannel": {
+    "0x34": 1
+  }, 
+  "poser::PoseEngine::PoseEngine": {
+    "0x20": 4
+  }, 
+  "Sound::daSoundPlayerManager::daSoundPlayerManager": {
+    "0x24": 1
+  }, 
+  "PresentationAnimator::PresentationAnimator": {
+    "0x24": 2
+  }, 
+  "choreo::IntersectPartition::IntersectPartition": {
+    "0x20": 1
+  }, 
+  "Mission::Mission": {
+    "0xf4": 3
+  }, 
+  "HitnRunManager::HitnRunManager": {
+    "0xfc": 1
+  }, 
+  "radMoviePlayer::radMoviePlayer": {
+    "0x84": 1
+  }, 
+  "BreakablesManager::ManagedBreakable::ManagedBreakable": {
+    "0xc": 1
+  }, 
+  "TrafficBodyDrawable::TrafficBodyDrawable": {
+    "0x24": 2
+  }, 
+  "tGameAttrLoader::tGameAttrLoader": {
+    "0x14": 1
+  }, 
+  "tTextureLoader::tTextureLoader": {
+    "0x1c": 1
+  }, 
+  "choreo::Transition::Transition": {
+    "0x8c": 1
+  }, 
+  "ActionButton::ToggleAnim::ToggleAnim": {
+    "0x38": 2
+  }, 
+  "ProjectileDSG::ProjectileDSG": {
+    "0x10c": 1
+  }, 
+  "SaveGameOpenRequest::SaveGameOpenRequest": {
+    "0x1c": 1
+  }, 
+  "FeTextChildTextBibleString::FeTextChildTextBibleString": {
+    "0x20": 2
+  }, 
+  "tMatrixStack::tMatrixStack": {
+    "0x4": 1
+  }, 
+  "CGuiScreenPurchaseRewards::CGuiScreenPurchaseRewards": {
+    "0x2dd0": 1
+  }, 
+  "Sound::daSoundDynaLoadManager::daSoundDynaLoadManager": {
+    "0x14": 1
+  }, 
+  "radSoundHalPositionalGroup::radSoundHalPositionalGroup": {
+    "0x88": 1
+  }, 
+  "DriveOpenRequest::DriveOpenRequest": {
+    "0xc": 1
+  }, 
+  "HudMissionProgress::HudMissionProgress": {
+    "0x14": 1
+  }, 
+  "sim::CollisionManager::CollisionManager": {
+    "0x164": 1
+  }, 
+  "RoadDataSegmentLoader::RoadDataSegmentLoader": {
+    "0x8": 1
+  }, 
+  "SkidEngineState::SkidEngineState": {
+    "0x2c": 1
+  }, 
+  "radLoadDataLoader::radLoadDataLoader": {
+    "0xc": 1
+  }, 
+  "RoadManager::RoadManager": {
+    "0x48": 1
+  }, 
+  "SoundEffectPlayer::SoundEffectPlayer": {
+    "0x28": 1
+  }, 
+  "SoundFXPauseLogic::SoundFXPauseLogic": {
+    "0x80": 1
+  }, 
+  "sim::PhysicsJoint0D::PhysicsJoint0D": {
+    "0x100": 1
+  }, 
+  "ActorAnimationWasp::ActorAnimationWasp": {
+    "0x20": 1
+  }, 
+  "sim::PhysicsProperties::PhysicsProperties": {
+    "0x2c": 7
+  }, 
+  "tSkeletonLoader::tSkeletonLoader": {
+    "0x14": 5
+  }, 
+  "XMLAttribute::XMLAttribute": {
+    "0x20": 1
+  }, 
+  "HudMissionObjective::HudMissionObjective": {
+    "0x44": 1
+  }, 
+  "sim::CollisionVolume::CollisionVolume": {
+    "0xb0": 2
+  }, 
+  "sim::SkeletonInfo::SkeletonInfo": {
+    "0x18": 1
+  }, 
+  "Sound::daSoundResourceManager::daSoundResourceManager": {
+    "0x22304": 1
+  }, 
+  "tTexture::tTexture": {
+    "0x14": 2
+  }, 
+  "tEntity::tEntity": {
+    "0x2c": 1, 
+    "0x30": 1, 
+    "0x68": 2, 
+    "0x34": 1
+  }, 
+  "TimeOutCondition::TimeOutCondition": {
+    "0x10": 1
+  }, 
+  "ActionButton::ButtonHandler::ButtonHandler": {
+    "0x5c": 2, 
+    "0x10": 1
+  }, 
+  "radLoadObject::radLoadObject": {
+    "0x10": 1
+  }, 
+  "DialogCoordinator::DialogCoordinator": {
+    "0x14": 1
+  }, 
+  "CardsDB::CardsDB": {
+    "0xc": 1
+  }, 
+  "DriveCreateDirectoryRequest::DriveCreateDirectoryRequest": {
+    "0x20": 1
+  }, 
+  "ChaseCam::ChaseCam": {
+    "0x140": 2
+  }, 
+  "ActionButton::GetInCar::GetInCar": {
+    "0x18": 1
+  }, 
+  "tMultiControllerLoader::tMultiControllerLoader": {
+    "0x14": 6
+  }, 
+  "tName*__uninitialized_copy_aux<tName*,tName*>": {
+    "0x40": 1, 
+    "0x80": 2
+  }, 
+  "tView::tView": {
+    "0x140": 1
+  }, 
+  "ps2LightmapShader::ps2LightmapShader": {
+    "0xa8": 1
+  }, 
+  "radThreadSemaphore::radThreadSemaphore": {
+    "0x14": 1
+  }, 
+  "GeometryVehicle::VehicleFrameController*__uninitialized_copy_aux<GeometryVehicle::VehicleFrameController*,GeometryVehicle::VehicleFrameController*>": {
+    "0x200": 1
+  }, 
+  "CStatePropDataLoader::CStatePropDataLoader": {
+    "0x14": 2
+  }, 
+  "EventListener::EventListener": {
+    "0x8": 1
+  }, 
+  "Sound::MusicSoundPlayer::MusicSoundPlayer": {
+    "0x34": 2
+  }, 
+  "radSoundBufferedDataSource::radSoundBufferedDataSource": {
+    "0x7c": 1
+  }, 
+  "FeLanguage::FeLanguage": {
+    "0x2c": 1
+  }, 
+  "HudWaspDestroyed::HudWaspDestroyed": {
+    "0x1c": 1
+  }, 
+  "tEntityStore::tEntityStore": {
+    "0x14": 1
+  }, 
+  "DriveDestroyDirectoryRequest::DriveDestroyDirectoryRequest": {
+    "0x20": 1
+  }, 
+  "DriveFindFirstRequest::DriveFindFirstRequest": {
+    "0x114": 1
+  }, 
+  "CGuiSystem::CGuiSystem": {
+    "0x58": 1
+  }, 
+  "tPoseAnimationController::tPoseAnimationController": {
+    "0xb4": 3
+  }, 
+  "ActionButton::PlayAnim::PlayAnim": {
+    "0x38": 6
+  }, 
+  "SuperCamManager::SuperCamManager": {
+    "0x6e0": 1
+  }, 
+  "ActionButton::NitroIcon::NitroIcon": {
+    "0x30": 1
+  }, 
+  "IRadScript::IRadScript": {
+    "0xf8": 1
+  }, 
+  "AnimEntityDSG::AnimEntityDSG": {
+    "0x104": 3
+  }, 
+  "tLensFlareGroup::tLensFlareGroup": {
+    "0x30": 1
+  }, 
+  "Scenegraph::TransformAnimationController::TransformAnimationController": {
+    "0xb4": 2
+  }, 
+  "tSequencer::tSequencer": {
+    "0x40": 1
+  }, 
+  "CGuiScreenViewMovies::CGuiScreenViewMovies": {
+    "0x9c": 1
+  }, 
+  "SkidMarkGenerator::SkidMarkGenerator": {
+    "0x80": 1
+  }, 
+  "tDirectionalLight::tDirectionalLight": {
+    "0x5c": 1
+  }, 
+  "tSceneGraphVisibilityAnimationController::tSceneGraphVisibilityAnimationController": {
+    "0x34": 2
+  }, 
+  "positionalSoundSettings::positionalSoundSettings": {
+    "0x28": 1
+  }, 
+  "tAnimationMemoryBlock::tAnimationMemoryBlock": {
+    "0x14": 1
+  }, 
+  "tParticleArray::tParticleArray": {
+    "0x20": 1
+  }, 
+  "FileWriteRequest::FileWriteRequest": {
+    "0x18": 1
+  }, 
+  "Wander::Wander": {
+    "0x24": 1
+  }, 
+  "tAnimatedObjectFactory::tAnimatedObjectFactory": {
+    "0x30": 1
+  }, 
+  "Sound::daSoundRenderingManager::daSoundRenderingManager": {
+    "0x68": 1
+  }, 
+  "tSphereGeneratorFactory::tSphereGeneratorFactory": {
+    "0x18": 1
+  }, 
+  "IdleEngineState::IdleEngineState": {
+    "0x2c": 1
+  }, 
+  "RenderLayer::RenderLayer": {
+    "0x38": 2
+  }, 
+  "radSoundHalMemoryRegion::radSoundHalMemoryRegion": {
+    "0x28": 2
+  }, 
+  "tTextureAnimationController::tTextureAnimationController": {
+    "0x30": 2
+  }, 
+  "tSequencerState::tSequencerState": {
+    "0x78": 1
+  }, 
+  "choreo::LocomotionRootDriver::LocomotionRootDriver": {
+    "0x1c": 1
+  }, 
+  "CGuiScreenVehicleGallery::CGuiScreenVehicleGallery": {
+    "0xdc": 1
+  }, 
+  "sim::WallVolume::WallVolume": {
+    "0x68": 4
+  }, 
+  "ps2ReflectionShader::ps2ReflectionShader": {
+    "0xe8": 2
+  }, 
+  "CementFileHandler::CementFileHandler": {
+    "0x18": 1
+  }, 
+  "RoadSegment::RoadSegment": {
+    "0xb8": 1
+  }, 
+  "MovingSoundManager::MovingSoundManager": {
+    "0xa84": 1
+  }, 
+  "ActionButton::AutomaticDoor::AutomaticDoor": {
+    "0x3c": 1
+  }, 
+  "CharacterRenderable::CharacterRenderable": {
+    "0x54": 2
+  }, 
+  "choreo::SynchronizationDriver::SynchronizationDriver": {
+    "0x30": 1
+  }, 
+  "choreo::FootBlender::FootBlender": {
+    "0x114": 1
+  }, 
+  "sim::ManualSimState::ManualSimState": {
+    "0x8c": 1
+  }, 
+  "Game::Game": {
+    "0x24": 1
+  }, 
+  "SoundAvatar::SoundAvatar": {
+    "0xd0": 1
+  }, 
+  "iControllerOutputHandler2::iControllerOutputHandler2": {
+    "0x24": 1
+  }, 
+  "tSpotLight::tSpotLight": {
+    "0x78": 1
+  }, 
+  "choreo::AnimationFootDriver::AnimationFootDriver": {
+    "0x14": 1
+  }, 
+  "ActionButton::TeleportAction::TeleportAction": {
+    "0x18": 1
+  }, 
+  "tMultiController::tMultiController": {
+    "0x40": 3
+  }, 
+  "radSoundIopPs2::radSoundIopPs2": {
+    "0x24": 1
+  }, 
+  "ActorManager::ActorManager": {
+    "0x44": 1
+  }, 
+  "HudHitNRun::HudHitNRun": {
+    "0x2c": 1
+  }, 
+  "tPolySkinLoader::tPolySkinLoader": {
+    "0x18": 1
+  }, 
+  "ps2ExtHardwareSkinning::ps2ExtHardwareSkinning": {
+    "0x10": 1
+  }, 
+  "memmove": {
+    "0x4b0": 1, 
+    "0x20000": 1, 
+    "0x10": 1, 
+    "0x200": 2, 
+    "0x80": 1
+  }, 
+  "ps2PrimBuffer::ps2PrimBuffer": {
+    "0x5c": 1
+  }, 
+  "Sparkle::Sparkle": {
+    "0x18": 1
+  }, 
+  "tSpriteEmitterFactory::tSpriteEmitterFactory": {
+    "0x23c": 1
+  }, 
+  "ParkedCarManager::ParkedCarManager": {
+    "0x128": 1
+  }, 
+  "radTimer::radTimer": {
+    "0x24": 1
+  }, 
+  "WorldScene::zSortBlah*__uninitialized_copy_aux<WorldScene::zSortBlah*,WorldScene::zSortBlah*>": {
+    "0x60000": 1
+  }, 
+  "TrafficManager::TrafficManager": {
+    "0xf84": 1
+  }, 
+  "tLocator::tLocator": {
+    "0x1c": 1
+  }, 
+  "NISSoundPlayer::NISSoundPlayer": {
+    "0x1a0": 1
+  }, 
+  "LGDevWheelInputPoint::LGDevWheelInputPoint": {
+    "0x30": 1
+  }, 
+  "tPointLight::tPointLight": {
+    "0x60": 1
+  }, 
+  "tSphereGenerator::tSphereGenerator": {
+    "0x44": 1
+  }, 
+  "radLoadDataStream::radLoadDataStream": {
+    "0x1c": 2
+  }, 
+  "tColourOffsetList::tColourOffsetList": {
+    "0x14": 1
+  }, 
+  "Console::Console": {
+    "0x5bc": 1
+  }, 
+  "FileCancelRequest::FileCancelRequest": {
+    "0xc": 1
+  }, 
+  "PtrHashTable::PtrHashTable": {
+    "0x30": 3
+  }, 
+  "CGuiScreenMainMenu::CGuiScreenMainMenu": {
+    "0xdc": 1
+  }, 
+  "HudItemDropped::HudItemDropped": {
+    "0x18": 1
+  }, 
+  "tInventory::tInventory": {
+    "0x470": 1
+  }, 
+  "CGuiScreenPauseSound::CGuiScreenPauseSound": {
+    "0xb8": 1
+  }, 
+  "tCameraLoader::tCameraLoader": {
+    "0x14": 1
+  }, 
+  "CGuiScreenHud::CGuiScreenHud": {
+    "0x3d8": 1
+  }, 
+  "radLoadFileStream::radLoadFileStream": {
+    "0x28": 1
+  }, 
+  "CGuiMenu2D::CGuiMenu2D": {
+    "0x40": 7
+  }, 
+  "tPointGeneratorFactory::tPointGeneratorFactory": {
+    "0x18": 1
+  }, 
+  "DriveCompletionRequest::DriveCompletionRequest": {
+    "0x18": 1
+  }, 
+  "choreo::Animation::Animation": {
+    "0x5c": 1
+  }, 
+  "CGuiScreenIrisWipe::CGuiScreenIrisWipe": {
+    "0xb8": 1
+  }, 
+  "FeEntityDummy::FeEntityDummy": {
+    "0x10": 1
+  }, 
+  "tImageLoader::tImageLoader": {
+    "0x1c": 2
+  }, 
+  "AnimatedIcon::AnimatedIcon": {
+    "0x28": 33
+  }, 
+  "FileCloseRequest::FileCloseRequest": {
+    "0xc": 1
+  }, 
+  "Conversation::Conversation": {
+    "0x20": 1
+  }, 
+  "TransitionPlayer::TransitionPlayer": {
+    "0x34": 1
+  }, 
+  "tLinearTable::RawIterator::RawIterator": {
+    "0x10": 1
+  }, 
+  "CGuiScreenPlayMovie::CGuiScreenPlayMovie": {
+    "0xa8": 4
+  }, 
+  "FrontEndContext::FrontEndContext": {
+    "0xc": 1
+  }, 
+  "choreo::BlendSlotFootInfo::BlendSlotFootInfo": {
+    "0x14": 1
+  }, 
+  "choreo::Locomotion::Locomotion": {
+    "0x34": 3
+  }, 
+  "InteriorExit::InteriorExit": {
+    "0xc": 1
+  }, 
+  "tEvent::tEvent": {
+    "0x20": 2, 
+    "0x14": 1
+  }, 
+  "DialogPriorityQueue::DialogPriorityQueue": {
+    "0x98": 1
+  }, 
+  "choreo::JointBlender::JointBlender": {
+    "0x124": 1
+  }, 
+  "CGuiScreenLetterBox::CGuiScreenLetterBox": {
+    "0x220": 1
+  }, 
+  "IRefCount::IRefCount": {
+    "0x1c": 2, 
+    "0x20": 2, 
+    "0x18": 2, 
+    "0x28": 13
+  }, 
+  "FileCommitRequest::FileCommitRequest": {
+    "0xc": 1
+  }, 
+  "IRadWeakCallbackWrapper::IRadWeakCallbackWrapper": {
+    "0x1c": 1
+  }, 
+  "CGuiScreenPauseSunday::CGuiScreenPauseSunday": {
+    "0xd0": 1
+  }, 
+  "tImageFontLoader::tImageFontLoader": {
+    "0x14": 1
+  }, 
+  "FeResourceManager::FeResourceManager": {
+    "0x150": 1
+  }, 
+  "rControllerSystem2::rControllerSystem2": {
+    "0x8c": 1
+  }
+}

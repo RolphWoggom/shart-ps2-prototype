@@ -1,0 +1,82 @@
+inp = `"NOMUSIC" 1
+"NOEFFECTS" 2
+"NODIALOG" 4
+"MUTE" 8
+"SKIPMOVIE" 0x10
+"MEMMONITOR" 0x20
+"HEAPSTATS" 0x40
+"CDFILES" 0x80
+"HOSTFILES" -----------
+"FIREWIRE" 0x100
+"SNPROFILER" 0x200
+"ARTSTATS" 0x400
+"PROPSTATS" 0x800
+"FEUNJOINED" 0x10000
+"SPEEDOMETER" 0x400000
+"NOHUD" 0x800000
+"DEBUGBV" 0x4000000
+"NOTRAFFIC" 0x10000000
+"SKIPSUNDAY" 0x8000000
+"SKIPFE" 0x80000
+"FEGAGS" 0x20000
+"FPS" 0x20000000
+"DESIGNER" 0x40000000
+"DETECTLEAKS" 0x80000000
+"NOHEAPS" 0x100000000
+"PRINTMEMORY" 0x200000000
+"DEMOTEST" 0x2000
+"NOSPLASH" 0x40000
+"SKIPLANGCHECK" 0x100000
+"SKIPMEMCHECK" 0x200000
+"NOHAPTIC" 0x400000000
+"RANDOMBUTTONS" 0x1000
+"SEQUENTIALDEMO" 0x4000
+"PCTEST" 0x800000000
+"NOAVRIL" 0x1000000000
+"SHORTDEMO" 0x8000
+"PRINTLOADTIME" 0x2000000000
+"PRINTFRAMERATE" 0x4000000000
+"SHOWDYNALOAD" 0x8000000000
+"NOPEDS" 0x20000000000
+"MANUALRESETDAMAGE" 0x10000000000
+"WINDOW" 0x40000000000
+"NOTUTORIAL" 0x1000000
+"COINS" 0x2000000
+"PROGSCAN" 0x80000000000
+"LARGEHEAPS" 0x100000000000
+"MEMCARDCHEAT" 0x200000000000
+"TOOL" 0x400000000000
+"FILENOTFOUND" 0x800000000000
+"LOADINGSPEW" 0x1000000000000
+"RELEASEPRINT" -------------
+"NOFRUITLESS" ---------
+"RADTUNER" ---------
+"L" ----------
+"M" --------------`
+
+lines = inp.split("\n")
+enums = []
+for (line of lines) {
+  [name, address] = line.split(" ")
+  name = name.replaceAll('"', "")
+  address = parseInt(address, 16)
+  if (!isNaN(address)) {
+    ev = 0
+    for (ev = 0; ev < 1000; ev += 1) {
+      if (1 << ev == address) {
+        break
+      }
+    }
+    
+    enums.push([address, ev, name])
+  }
+  console.log(name, address)
+  
+}
+enums = enums.sort((a,b) => a[0] - b[0])
+sdgfsd = ""
+console.log(enums)
+for (e of enums) {
+  sdgfsd += "\n{{Standard table/row|" + e[2] + "|}}"
+}
+console.log(sdgfsd)
